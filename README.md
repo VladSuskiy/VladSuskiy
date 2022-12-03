@@ -1,6 +1,16 @@
 ### Hi there 👋
-### Work Hard, Rest Harder
-   ## :hammer_and_wrench: Languages and Tools I use :
+<div align="center">
+Work Hard, Rest Harder
+</div>
+
+
+
+<div align="center">
+  <img src="https://lh3.googleusercontent.com/x0ukeqntLdtON_YF7NOAsucpDJMT5fOKi0KAF-klJ9c1U2CbizZ5Zr3cB5P_1usB0N8GDQKD41eugsmsM94BWjYHEUmtFC9STkpBUiFeaehCwdcBmYcvMZP-3iXHxBDAZm_ENXnDjAVxgQP9lA60nrDCA5Y6X3RTWzMm5VEZ9C3SQe8I5NAV4uWCKbWCDN3dd-QYLoYLi1FLCK6eRCl_M2QxqvFKGJfDtAjPhjNXWr8F-xVo_NyW4efExcFBWnCTDlW0NI_78_yfAXhY-s7tsRYQnAMGVgshM2jHvkE3Okp5F181xqCy4L3WQuoM8uCeZ-KEdkwZkGmUuRy_mnG7POwNrsMPPj39f3psUn-pHxTaLP3Hp5zZHBKu-LrIb8JUnplJI326af2B7z_Hd3pK_jCs2OzYIxrUUpr69odV6ArkKPh1G5kTdnMjPTj356GMyLMvVCIJ1o0it5nqCOhjo9OAD2UREg5IWaeRjhw8_954kBEJvNc9p3A2COX8M4zdTQotp2fiI5rl6l6-wwe-dDiZqg0ObZc8_PElCcgQsB2zYrbY0eXuWQlG0dDiCmtcOSYOrxw_vTRE0TIHwNwvLW8jNZOGW8xjjF7EuHbKpNmFLIpRCrfv_TJ6bJgxAerYwy8xrNezUvMNU0yvl4aNF2BAIchqqlTG5QDLA0VbWodqnyCt2rKAqaYEh7HvzxROYG2At7SbKzFx8N14TAASFN6h-HD6N56lGoWf8Xowp_L_uDO-fqedERMsqbQO3kFF7TKtRmfmGvtIbPCT4Knn0vvjWZvVDETDqUaBxa40TgQ3W8moBUZmvKbfl4XzdIU7Ywh_u0OWzLRJWvC84SPab8f-09XivMmXfwVUxaUMiho3kqDus0cfItsD-R97awa7gdMA-iPtvsKSGHePK70r70jhGYQtcXIEfdfCAzTpxHkBEQwf=w612-h367-no?authuser=0" width="700" height="300"/>
+</div>
+
+
+   ## Languages and Tools I use :
   <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
