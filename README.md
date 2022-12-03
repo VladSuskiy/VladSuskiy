@@ -28,10 +28,14 @@ Postman <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1
 JavaScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Git <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
-Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
+  </div>
+  
+  
+  
+ - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-suskiy/)
   
 
 
