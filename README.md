@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 
-<div align="center">
+<p align="center">
 Work Hard, Rest Harder
-</div>
+</p>
 
 
 
 <div align="center">
-<img src=https://lh3.googleusercontent.com/xdk4E7WRBBH3e8HEwhgV2F5qLw2aqkDYxHplMJCPYVzEiUrXcucElIYTap0kFZ7doqD__TLlCTzhdb8ohKYVhZj1ugvWCn80E8MQVe0VR6r85Aizz7WN0fhyWheYncoz1X2C2akpH23rki5MuDs_FOvFqOsmeAo5Miv4rdJuJqeXzO-6i99-uhBMkCmBax4H9h5MvaydepyakoPVBENqikqss-WzH07fo4qX7TC6UGKJ6V8Ec_k-QICXLklC6G5WBjEc69UfUiORn_I560Us0E_sComhjYulTG-EHBU2MAyk5eNFaND_p3L9GYPZOqblxLRfJ_0lC8vXzwtIbnFo90sL5u7p4MSg5iCBBbB6Rb-tXOPPBVJI2xgOFXW4xCiqQC8nrlhyBLf9UZXyta75pp_BsBgcZnITt-l1NolH9drWTxs_hmuOicuSULdlP7YwXxfUFQ4vgG3BKHdWBs7fJoZGHA4DxFmyPvmllfdMuoRoP5dk5NzofxwGgE5bQLCRIaFZV1AN3FLAzTH_0edh58EYl2QrjKcr5GfJ57gecYHnLVrq5VK55xVevbQK56fS_Xj_aPf1Mwyn1uMGP1mIzoom-fi760X6vVFPU84yD2WXblxvILDtbFm8z7Rd1F7EBmzudIc4Ht7m3i4cxZEJFet2WsBe-2K9Y42I6HJPWMe1lE8ZcUnybM9EQu2LFRNJqOXVixi9VeHTF1-YPP9dR_JfStBH-XzqX9FDt5VySbXtbcyoQlSts6TDcWVGrcz480udczj2NCF0q8-CUgicVghpr4YNTewAXkiLRZZDlnjwXpXdsMYcWjww0t-6aBsbkXVwu1qNVo8x_38K8vc_KATUG8RGnBd0cza5N4DclmvpzU4xdZyHE1IlcCqq6GE05YXUxe1lMsPiIcmUEisLzKZEBft4lg7o8mzKCu3WTZBxVJsu=w612-h367-no?authuser=0 width="700" height="300"/>
- </div>
+<img src="https://github.com/VladSuskiy/VladSuskiy/blob/main/Images/githubprofile.jpg">
+</div>
  
  My LinkedIn profile:
 
