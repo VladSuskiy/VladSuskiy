@@ -15,7 +15,7 @@ Work Hard, Rest Harder
 
 [![Linkedin Badge](https://img.shields.io/badge/-vladsuskiy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-suskiy/)](https://www.linkedin.com/in/vlad-suskiy/)
 
-
+<p>
 ## Languages and Tools I use :
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
@@ -37,7 +37,10 @@ HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
-<img src="https://github.com/VladSuskiy/VladSuskiy/blob/main/Images/bug-acadgild-bug.gif"
+</p>
+ 
+<img src="https://github.com/VladSuskiy/VladSuskiy/blob/main/Images/bug-acadgild-bug.gif">
+       
 </div>
 
 
