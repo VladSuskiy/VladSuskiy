@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Work Hard, Rest Harder
+Work Hard, Rest Harder!!!
 </p>
 
 
